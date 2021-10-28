@@ -1,0 +1,29 @@
+body{
+    background-color: #E9ECEF;
+}
+main h1{
+    color: red;
+    text-align: center;
+}
+
+main p{
+    text-align: center;
+}
+main h3{
+    color: #C9A759;
+    text-align: center;
+}
+main li{
+    text-align: center;
+    
+}
+
+.price{
+    background-color: grey; 
+    color: white; 
+    font-size: 9px;
+    
+}
+.container{
+    text-align: center;
+}
